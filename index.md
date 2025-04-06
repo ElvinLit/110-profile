@@ -1,6 +1,6 @@
 # Welcome to my user page!  
 
-![Profile Picture](images/bio-photo.jpg)  
+[Picture of Me](images/bio-photo.jpg)  
 
 ## 📑 Table of Contents  
 - [Welcome to my user page!](#welcome-to-my-user-page)

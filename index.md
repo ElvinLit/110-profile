@@ -5,7 +5,6 @@
 ## 📑 Table of Contents  
 - [Welcome to my user page!](#welcome-to-my-user-page)
   - [📑 Table of Contents](#-table-of-contents)
-  - [`print("Hello, World!")`](#printhello-world)
   - [About me](#about-me)
   - [Technical Skills](#technical-skills)
   - [Professional Experiences](#professional-experiences)
@@ -13,10 +12,10 @@
   - [Extracurricular Goals](#extracurricular-goals)
   - [My Socials](#my-socials)
 
-## `print("Hello, World!")`  
 ---  
 
 ## About me  
+### `print("Hello, World!")`  
 
 My name is Elvin, and I am a Mathematics - Computer Science student at UC San Diego.  
 I love applying problem-solving and programming skills to translate complex problems into simple mathematical frameworks, and enjoy building tools that make everyday life better.  
